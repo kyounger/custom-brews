@@ -1,4 +1,4 @@
 ## Install
 
-`brew tap kyounger/custom-brews` 
+`brew tap kyounger/homebrew-custom-brews` 
 `brew install formula`
